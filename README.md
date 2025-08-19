@@ -1,16 +1,16 @@
 # Cloud-Based Multi-Robot Navigation 🏭
 
 > **Status**: In Progress | **Target Platform**: AWS RoboMaker  
-> **Expected Completion**: August 2025
+> **Expected Completion**: September 2025
 
 ## 🔍 Overview
-This project simulates autonomous multi-robot navigation inside a warehouse environment using **ROS2**, **SLAM Toolbox**, and **Nav2**. It integrates cloud deployment using **Docker**, **Terraform**, and **AWS RoboMaker**.
+This project simulates autonomous multi-robot navigation inside a warehouse environment using **ROS2**, **SLAM Toolbox**, and **Nav2**. It integrates cloud deployment using **Docker**, **Terraform**, and **AWS/Azure**.
 
 ## 🛠️ Tech Stack
 - ROS2 Humble
 - Nav2 + SLAM Toolbox
 - Docker & Kubernetes
-- AWS RoboMaker
+- AWS/Azure
 - Prometheus + Grafana (Monitoring)
 - TF, URDF, LiDAR, Camera Simulation
 
